@@ -21,6 +21,7 @@
 
 // Eigen
 #include <Eigen/Dense>
+#include <vector>
 
 namespace EigenHelpers
 {
